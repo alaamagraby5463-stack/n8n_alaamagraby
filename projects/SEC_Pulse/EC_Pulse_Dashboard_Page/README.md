@@ -1,1 +1,1 @@
-# EC_Pulse - Dashboard Page
+# SEC_Pulse - Dashboard Page
